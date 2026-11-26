@@ -1,4 +1,4 @@
-# Jeet.com website
+# Advisor.com website
 
 A static website: plain HTML, CSS and JavaScript. It has no build step, so you can open `index.html` in a browser or upload the folder to any web host (Netlify, Vercel, GitHub Pages, Hostinger, cPanel and so on).
 
